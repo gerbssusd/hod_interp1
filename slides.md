@@ -21,7 +21,8 @@ transition: slide-left
 mdc: true
 ---
 
-# Title
+# Heart of Darkness
+Interpretations
 
 ---
 layout: image
