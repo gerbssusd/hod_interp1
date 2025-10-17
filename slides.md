@@ -29,11 +29,6 @@ layout: image
 image: /slide_1_img_1.png
 ---
 
-# Heart of Darkness
-## ** Interpretations **
-
----
-
 ![Slide Image](/slide_2_img_1.png)
 Interpretation
 Archetypal(the shadow; the quest)
