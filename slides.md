@@ -30,7 +30,7 @@ image: /slide_1_img_1.png
 ---
 
 # Heart of Darkness
-** Interpretations **
+## ** Interpretations **
 
 ---
 
