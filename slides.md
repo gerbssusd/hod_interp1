@@ -1,14 +1,14 @@
 ---
 # You can also start simply with 'default'
-theme: seriph
+theme: default
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: /slide_1_img_1.png
 # some information about your slides (markdown enabled)
 title: Welcome to Slidev
-info: |
-  ## Heart of Darkness
-  Interpretations
+info: 
+  # Heart of Darkness
+  ## Interpretations
 
 # apply unocss classes to the current slide
 class: text-center
@@ -25,59 +25,88 @@ mdc: true
 Interpretations
 
 ---
+layout: image-left
+image: /slide_1_img_1.png
+---
+
+# Interpretation
+
+- ## Archetypal (the shadow; the quest)
+
+- ## Marxist
+
+- ## Sociological / Cultural
+
+- ## Psychological 
+
+- ## Religious
+
+- ## Moral
+
+---
 layout: image
 image: /slide_1_img_1.png
 ---
 
-Interpretation
-Archetypal(the shadow; the quest)
-Marxist
-Sociological / Cultural
-Psychological 
-Religious
-Moral
+# The Shadow Archetype
+
+- ## The Shadow is a very common archetype that reflects deeper elements of our psyche, where latent dispositions which are common to us all arise. 
+
+- ## Our shadow may appear in dreams, hallucinations and musings, often as something or someone who is bad, fearsome or despicable in some way. 
+
+- ## It also reflects something that was once split from us in early management of the objects in our lives.
 
 ---
-
-![Slide Image](/slide_3_img_1.png)
-The Shadow Archetype
-The Shadow is a very common archetype that reflects deeper elements of our psyche, where latent dispositions which are common to us all arise. 
-Our shadow may appear in dreams, hallucinations and musings, often as something or someone who is bad, fearsome or despicable in some way. 
-It also reflects something that was once split from us in early management of the objects in our lives.
-
+layout: image-left
+image: /slide_1_img_1.png
 ---
 
-![Slide Image](/slide_4_img_1.png)
-The Shadow Archetype
-We tend to see it in “others.” That is to say, we project our dark side onto others and thus interpret them as “enemies” or as “exotic.”
-Thus, the shadow is the personification of that part of human, psychic possibility that we deny in ourselves and project onto others. 
-The goal of personality integration is to integrate the rejected, inferior side of our life into our total experience and to take responsibility for it.
+# The Shadow Archetype
+
+## We tend to see it in “others.” That is to say, we project our dark side onto others and thus interpret them as “enemies” or as “exotic.”
+
+- Thus, the shadow is the personification of that part of human, psychic possibility that we deny in ourselves and project onto others. 
+
+- The goal of personality integration is to integrate the rejected, inferior side of our life into our total experience and to take responsibility for it.
 
 ---
-
-![Slide Image](/slide_5_img_1.png)
-The Shadow Archetype
-It is, by its name, dark, shadowy, unknown and potentially troubling. It embodies chaos and wildness of character. 
-The shadow thus tends not to obey rules, and in doing so may discover new lands or plunge things into chaos and battle. 
-It has a sense of the exotic and can be disturbingly fascinating. In myth, it appears as the wild man, spider-people, mysterious fighters and dark enemies.
-
+layout: image-right
+image: /slide_1_img_1.png
 ---
 
-![Slide Image](/slide_6_img_1.png)
-The Archetypal Quest
-HOD is a modern myth (= tradition of quest narrative)
-In a quest, the story develops as a central character, the hero, meets and overcomes a series of obstacles on the way to accomplishing a task. 
-archetypal quest stories – Virgil’s Aeneid & Dante's Inferno
-HOD contains mythological “quest”elements: -- fellow journeymen (the Pilgrims) -- a fool (the Harlequin = the Russian) -- a set of obstacles as they travel down river     (“descent to the underworld”)
+# The Shadow Archetype
+
+- It is, by its name, dark, shadowy, unknown and potentially troubling. It embodies chaos and wildness of character. 
+
+- The shadow thus tends not to obey rules, and in doing so may discover new lands or plunge things into chaos and battle. 
+
+- It has a sense of the exotic and can be disturbingly fascinating. In myth, it appears as the wild man, spider-people, mysterious fighters and dark enemies.
 
 ---
+layout: image
+image: /slide_1_img_1.png
+---
 
-![Slide Image](/slide_7_img_1.png)
-The Archetypal Quest
-But is there a conventional hero? 
-It is unclear whether the hero is Marlow or Kurtz. 
+# The Archetypal Quest
+
+- ## HOD is a modern myth (= tradition of quest narrative)
+    - In a quest, the story develops as a central character, the hero, meets and overcomes a series of obstacles on the way to accomplishing a task. 
+    - archetypal quest stories – Virgil’s Aeneid & Dante's Inferno
+- ## HOD contains mythological “quest”elements: 
+  - fellow journeymen (the Pilgrims)
+  - a fool (the Harlequin = the Russian)
+  - a set of obstacles as they travel down river  (“descent to the underworld”)
+
+---
+layout: image
+image: /slide_1_img_1.png
+---
+
+# The Archetypal Quest
+#  But is there a conventional hero?
+<div style="text: red;"> It is unclear whether the hero is Marlow or Kurtz. 
 Marlow is a flawed hero - for most of the book he lacks insight and is uncertain of the nature of his own quest, nor is it clear why he is obsessed by Kurtz. 
-Kurtz himself remains an enigma. This quest yields an empty prize: the mystery, the task, remains incomplete, "unsolved."
+Kurtz himself remains an enigma. This quest yields an empty prize: the mystery, the task, remains incomplete, "unsolved." </div>
 
 ---
 
@@ -156,9 +185,12 @@ But it is precisely because the world often appears to be ambiguous and ironic t
 Otherwise, there is only darkness, only confusion.
 
 ---
+layout: image
+image: /slide_15_img_1.png
+class: center
+---
 
-![Slide Image](/slide_15_img_1.png)
-![Slide Image](/slide_15_img_2.png)
+![Slide Image](/slide_15_img_2.png) {center}
 
 ---
 
